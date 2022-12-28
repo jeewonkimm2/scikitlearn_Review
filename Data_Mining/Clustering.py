@@ -24,7 +24,7 @@ x3, y3 = datasets.make_blobs(n_samples=n, cluster_std = [1.0,2.0,0.5])
 # plt.scatter(x3[:,0], x3[:,1], c=y3)
 
 # 초승달 모양 random data, noise 퍼짐
-x4,y4 = datasets.make_moons(n_samples=n, noise = 0.1)
+x4, y4 = datasets.make_moons(n_samples=n, noise = 0.1)
 # plt.scatter(x4[:,0], x4[:,1], c=y4)
 
 
