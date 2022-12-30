@@ -1,7 +1,7 @@
 # scikitlearn_Review
 Review of Data Mining and Business Analytics from 3 year module of ITM, SeoulTech
 
-## Data Mining
+## [Data Mining][link1]
 
 1. [Linear Regression][link]
 
@@ -9,4 +9,5 @@ Review of Data Mining and Business Analytics from 3 year module of ITM, SeoulTec
   
 - sklearn.linear_model.LinearRegression : LinearRegression fits a linear model with coefficients w = (w1, …, wp) to minimize the residual sum of squares between the observed targets in the dataset, and the targets predicted by the linear approximation.
 
+[link1]: https://github.com/jeewonkimm2/scikitlearn_Review/tree/main/Data_Mining
 [link]: https://github.com/jeewonkimm2/scikitlearn_Review/blob/main/Data_Mining/Linear_Regression.py
