@@ -1,4 +1,4 @@
-# scikitlearn_Review
+# scikitlearn_review
 Review of data mining, business analytics and general python skills for data science.
 
 ## [Data Mining][link1]
